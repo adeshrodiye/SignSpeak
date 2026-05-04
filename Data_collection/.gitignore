@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Ignore dataset
+data/keypoints_dataset.csv
+
+# Ignore generated labels (optional)
+data/labels.txt
+
+# Ignore models (optional but recommended)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+sign_env/
+venv/
